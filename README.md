@@ -11,4 +11,3 @@
 * VK:       [@Umbrellla777](https://vk.com/umbrellla777) <br/>
 ## About me: <br/>
 * Developer of a bot for animated messages in telegrams. <br/>
-***
