@@ -4,4 +4,4 @@
 * Telegram: [@Umbrellla777](https://t.me/Umbrellla777) <br/>
 * VK:       [@Umbrellla777](https://vk.com/umbrellla777) <br/>
 ### About me: <br/>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
