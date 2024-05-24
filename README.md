@@ -13,7 +13,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  <br/>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <br/>
 <br/>
-- uses: Umbrellla777
+- uses:Umbrellla777
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
