@@ -3,7 +3,7 @@
 * Telegram: [@Umbrellla777](https://t.me/Umbrellla777) <br/>
 * VK:       [@Umbrellla777](https://vk.com/umbrellla777) <br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Umbrellla777)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umbrellla777)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umbrellla777)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umbrellla777)](https://github.com/anuraghazra/github-readme-stats)
 ### About me: <br/>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br/>
